@@ -1,0 +1,31 @@
+# api development with koa
+  npm i koa koa-bodyparser koa-json koa-logger koa-router @types/koa @types/koa-bodyparser @types/koa-json @types/koa-logger @types/koa-router
+
+@ koa validation
+  npm i koa-req-validation
+
+# run typescript file / tsc => typescript compiler
+  1. tsc {typescript_file}
+  2. node {javascript_file}
+
+  or
+
+  npx ts-node {typescript_file}
+
+# show node version
+  node -v
+
+# list files
+  ls -l
+
+# show installed packages
+  npm ls
+
+# install typescript / -g => global installation
+  npm install -g typescript
+
+# install package (readline-sync for node.js / @types for typescript)
+  npm i readline-sync @types/readline-sync
+
+# uninstall package
+  npm uninstall readline-sync
